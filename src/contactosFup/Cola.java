@@ -6,7 +6,7 @@ package contactosFup;
 
 /**
  *
- * @author Usuario
+ * @author UsuarioPrueba
  */
 public class Cola {
     
